@@ -1,0 +1,2 @@
+Paste a review,Mood Classification,Mood Score,Word Sentiment Breakdown,timestamp
+"It was not good, actually quite bad.",NEGATIVE,'-4,"[{""token"": ""It "", ""class_or_confidence"": null}, {""token"": ""was "", ""class_or_confidence"": null}, {""token"": ""not "", ""class_or_confidence"": null}, {""token"": ""good, "", ""class_or_confidence"": ""negative""}, {""token"": ""actually "", ""class_or_confidence"": null}, {""token"": ""quite "", ""class_or_confidence"": null}, {""token"": ""bad. "", ""class_or_confidence"": ""negative""}]",2026-10-24 15:40:21.274337
